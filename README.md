@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @SlowerTK
+- 👀 I’m interested in creating all sorts of different gizmos
+- 🌱 I’m currently studying in TUSUR
+- 📫 In the future I plan to create my own game
