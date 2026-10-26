@@ -2,7 +2,7 @@
 
 # Anton · SlowerTK
 
-**Developer who ships small useful things — from Win32 utilities to Minecraft mods.**
+**Developer who ships small useful things — 1C:Enterprise applications, Win32 utilities, Minecraft mods.**
 
 [![Telegram](https://img.shields.io/badge/Telegram-@SlowerTK-2CA5E0?style=flat-square&logo=telegram&logoColor=white)](https://t.me/SlowerTK)
 [![Modrinth](https://img.shields.io/badge/Modrinth-SlowerTK-1BD96A?style=flat-square&logo=modrinth&logoColor=white)](https://modrinth.com/user/SlowerTK)
@@ -16,10 +16,19 @@ I like the moment when a small annoying problem turns into a tiny tool that just
 
 ### What I work on
 
+- 🧾 **1C:Enterprise** — configurations, documents with register movements, queries and data composition reports (СКД)
 - 🪟 **Windows utilities** — native C++ / Win32, no frameworks, small standalone binaries
 - 🔤 **Text and input automation** — layout switching, hotkeys, working with selected text system-wide
 - 🧱 **Minecraft mods** — Fabric and NeoForge, published on Modrinth
 - 🎮 **Game engine experiments** — Direct2D rendering and 2D engine architecture
+
+### 1C:Enterprise
+
+I build business applications on 1C:Enterprise: metadata design, posting logic with register movements and stock control, cost and price calculation, and Data Composition System reports. My thesis project is a complete configuration for a PC assembly business — from component intake on the warehouse to revenue reporting.
+
+| Project | What it does | Stack |
+| --- | --- | --- |
+| **[1c-pc-assembly](https://github.com/SlowerTK/1c-pc-assembly)** | Management system for a custom PC assembly centre: warehouse, builds with compatibility checks, sales and reports. | `1C 8.5` `СКД` `XML dump` |
 
 ### Selected projects
 
@@ -43,16 +52,25 @@ The fastest way is [Telegram](https://t.me/SlowerTK). For anything about the Min
 
 <br>
 
-**Разработчик, который доводит маленькие полезные вещи до релиза — от утилит для Windows до модов для Minecraft.**
+**Разработчик, который доводит маленькие полезные вещи до релиза — от прикладных решений на 1С до утилит для Windows и модов для Minecraft.**
 
 Мне нравится момент, когда мелкая бытовая неудобность превращается в крошечный инструмент, который просто работает. Большинство проектов начинаются с «это должно делаться одной клавишей» или «в игре должно быть можно так» — и заканчиваются релизом, который кто-то скачивает.
 
 ### Чем занимаюсь
 
+- 🧾 **1С:Предприятие** — конфигурации, документы с движениями по регистрам, запросы и отчёты на СКД
 - 🪟 **Утилиты для Windows** — нативный C++ / Win32, без фреймворков, маленькие standalone-бинарники
 - 🔤 **Автоматизация текста и ввода** — смена раскладки, горячие клавиши, работа с выделенным текстом в любой программе
 - 🧱 **Моды для Minecraft** — Fabric и NeoForge, публикую на Modrinth
 - 🎮 **Эксперименты с игровыми движками** — рендер на Direct2D и архитектура 2D-движка
+
+### 1С:Предприятие
+
+Делаю прикладные решения на 1С: проектирование метаданных, логика проведения с движениями по регистрам и контролем остатков, расчёт себестоимости и цены, отчёты на СКД. Дипломный проект — полноценная конфигурация для центра сборки ПК: от поступления комплектующих на склад до отчёта по выручке.
+
+| Проект | Что делает | Стек |
+| --- | --- | --- |
+| **[1c-pc-assembly](https://github.com/SlowerTK/1c-pc-assembly)** | Система управления центром сборки ПК: склад, сборка с проверкой совместимости, продажи и отчёты. | `1С 8.5` `СКД` `выгрузка в XML` |
 
 ### Избранные проекты
 
