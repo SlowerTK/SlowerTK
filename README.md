@@ -1,8 +1,8 @@
 <div align="center">
 
-# Anton · SlowerTK
+# Антон · SlowerTK
 
-**Developer who ships small useful things — 1C:Enterprise applications, Win32 utilities, Minecraft mods.**
+**Разработчик: прикладные решения на 1С, утилиты для Windows, моды для Minecraft.**
 
 [![Telegram](https://img.shields.io/badge/Telegram-@SlowerTK-2CA5E0?style=flat-square&logo=telegram&logoColor=white)](https://t.me/SlowerTK)
 [![Modrinth](https://img.shields.io/badge/Modrinth-SlowerTK-1BD96A?style=flat-square&logo=modrinth&logoColor=white)](https://modrinth.com/user/SlowerTK)
@@ -12,49 +12,7 @@
 
 ---
 
-I like the moment when a small annoying problem turns into a tiny tool that just works. Most of my projects start with "this should be one hotkey" or "the game should let me do that" — and end with a release someone actually downloads.
-
-### What I work on
-
-- 🧾 **1C:Enterprise** — configurations, documents with register movements, queries and data composition reports (СКД)
-- 🪟 **Windows utilities** — native C++ / Win32, no frameworks, small standalone binaries
-- 🔤 **Text and input automation** — layout switching, hotkeys, working with selected text system-wide
-- 🧱 **Minecraft mods** — Fabric and NeoForge, published on Modrinth
-- 🎮 **Game engine experiments** — Direct2D rendering and 2D engine architecture
-
-### 1C:Enterprise
-
-I build business applications on 1C:Enterprise: metadata design, posting logic with register movements and stock control, cost and price calculation, and Data Composition System reports. My thesis project is a complete configuration for a PC assembly business — from component intake on the warehouse to revenue reporting.
-
-| Project | What it does | Stack |
-| --- | --- | --- |
-| **[1c-pc-assembly](https://github.com/SlowerTK/1c-pc-assembly)** | Management system for a custom PC assembly centre: warehouse, builds with compatibility checks, sales and reports. | `1C 8.5` `СКД` `XML dump` |
-
-### Selected projects
-
-| Project | What it does | Stack |
-| --- | --- | --- |
-| **[CreateTrayIconFromApp](https://github.com/SlowerTK/CreateTrayIconFromApp)** | Hides any window into the system tray with a hotkey. Favorites, auto-hide timer, dark mode, autostart. | `C++` `Win32` |
-| **[Fix My Text](https://github.com/C-like-900/Fix-my-text)** | Windows tool for selected text: fix keyboard layout, change case, search and translate via hotkeys. | `C++` `Win32` |
-| **[RevertBark](https://modrinth.com/mod/revertbark)** | Minecraft mod: bone meal grows the bark back on stripped logs. 1.2k+ downloads on Modrinth. | `Java` `Fabric` `NeoForge` |
-| **[GameEngine](https://github.com/SlowerTK/GameEngine)** | Early 2D engine prototype on Direct2D, written from scratch on the Win32 API. | `C++` `Direct2D` |
-
-### Smaller things
-
-[`Snake`](https://github.com/SlowerTK/Snake) · [`Arkanoid`](https://github.com/SlowerTK/Arkanoid) · [`thread-pendulum`](https://github.com/SlowerTK/thread-pendulum) — study projects in C++.
-
-### Get in touch
-
-The fastest way is [Telegram](https://t.me/SlowerTK). For anything about the Minecraft mod, use [Modrinth](https://modrinth.com/user/SlowerTK) or open an issue on GitHub.
-
-<details>
-<summary><b>🇷🇺 По-русски</b></summary>
-
-<br>
-
-**Разработчик, который доводит маленькие полезные вещи до релиза — от прикладных решений на 1С до утилит для Windows и модов для Minecraft.**
-
-Мне нравится момент, когда мелкая бытовая неудобность превращается в крошечный инструмент, который просто работает. Большинство проектов начинаются с «это должно делаться одной клавишей» или «в игре должно быть можно так» — и заканчиваются релизом, который кто-то скачивает.
+Люблю момент, когда мелкая бытовая неудобность превращается в крошечный инструмент, который просто работает. Большинство проектов начинаются с «это должно делаться одной клавишей» или «в игре должно быть можно так» — и заканчиваются релизом, который кто-то скачивает.
 
 ### Чем занимаюсь
 
@@ -88,5 +46,47 @@ The fastest way is [Telegram](https://t.me/SlowerTK). For anything about the Min
 ### Связаться
 
 Быстрее всего — [Telegram](https://t.me/SlowerTK). По моду — [Modrinth](https://modrinth.com/user/SlowerTK) или issue на GitHub.
+
+<details>
+<summary><b>🇬🇧 English</b></summary>
+
+<br>
+
+**Developer who ships small useful things — 1C:Enterprise applications, Win32 utilities, Minecraft mods.**
+
+I like the moment when a small annoying problem turns into a tiny tool that just works. Most of my projects start with "this should be one hotkey" or "the game should let me do that" — and end with a release someone actually downloads.
+
+#### What I work on
+
+- 🧾 **1C:Enterprise** — configurations, documents with register movements, queries and data composition reports (СКД)
+- 🪟 **Windows utilities** — native C++ / Win32, no frameworks, small standalone binaries
+- 🔤 **Text and input automation** — layout switching, hotkeys, working with selected text system-wide
+- 🧱 **Minecraft mods** — Fabric and NeoForge, published on Modrinth
+- 🎮 **Game engine experiments** — Direct2D rendering and 2D engine architecture
+
+#### 1C:Enterprise
+
+I build business applications on 1C:Enterprise: metadata design, posting logic with register movements and stock control, cost and price calculation, and Data Composition System reports. My thesis project is a complete configuration for a PC assembly business — from component intake on the warehouse to revenue reporting.
+
+| Project | What it does | Stack |
+| --- | --- | --- |
+| **[1c-pc-assembly](https://github.com/SlowerTK/1c-pc-assembly)** | Management system for a custom PC assembly centre: warehouse, builds with compatibility checks, sales and reports. | `1C 8.5` `СКД` `XML dump` |
+
+#### Selected projects
+
+| Project | What it does | Stack |
+| --- | --- | --- |
+| **[CreateTrayIconFromApp](https://github.com/SlowerTK/CreateTrayIconFromApp)** | Hides any window into the system tray with a hotkey. Favorites, auto-hide timer, dark mode, autostart. | `C++` `Win32` |
+| **[Fix My Text](https://github.com/C-like-900/Fix-my-text)** | Windows tool for selected text: fix keyboard layout, change case, search and translate via hotkeys. | `C++` `Win32` |
+| **[RevertBark](https://modrinth.com/mod/revertbark)** | Minecraft mod: bone meal grows the bark back on stripped logs. 1.2k+ downloads on Modrinth. | `Java` `Fabric` `NeoForge` |
+| **[GameEngine](https://github.com/SlowerTK/GameEngine)** | Early 2D engine prototype on Direct2D, written from scratch on the Win32 API. | `C++` `Direct2D` |
+
+#### Smaller things
+
+[`Snake`](https://github.com/SlowerTK/Snake) · [`Arkanoid`](https://github.com/SlowerTK/Arkanoid) · [`thread-pendulum`](https://github.com/SlowerTK/thread-pendulum) — study projects in C++.
+
+#### Get in touch
+
+The fastest way is [Telegram](https://t.me/SlowerTK). For anything about the Minecraft mod, use [Modrinth](https://modrinth.com/user/SlowerTK) or open an issue on GitHub.
 
 </details>
